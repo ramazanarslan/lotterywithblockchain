@@ -29,6 +29,10 @@ You can view it on the course page: https://piazza.com/boun.edu.tr/spring2018/cm
 
 https://lottery483.herokuapp.com/
 
+you can clone here
+https://github.com/ramazanarslan/lotterywithblockchain
+
+
 
 -  In this project we created smart contract in both:
     *  eBloc Network
